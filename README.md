@@ -7,13 +7,13 @@
 
 ## Tech stack
 
-![alt text](https://img.shields.io/badge/C-167E5A?style=for-the-badge&logo=c)
+![alt text](https://img.shields.io/badge/python-167E5A?style=for-the-badge&logo=python)
 ![alt text](https://img.shields.io/badge/C++-167E5A?style=for-the-badge&logo=cplusplus)
 ![alt text](https://img.shields.io/badge/HTML-167E5A?style=for-the-badge&logo=html5)
 ![alt text](https://img.shields.io/badge/Css-167E5A?style=for-the-badge&logo=css3)
-![alt text](https://img.shields.io/badge/Js-167E5A?style=for-the-badge&logo=javascript)
+![alt text](https://img.shields.io/badge/django-167E5A?style=for-the-badge&logo=django)
 ![alt text](https://img.shields.io/badge/Tailwind-167E5A?style=for-the-badge&logo=tailwindcss)
-![alt text](https://img.shields.io/badge/React-167E5A?style=for-the-badge&logo=react)
+![alt text](https://img.shields.io/badge/tensorflow-167E5A?style=for-the-badge&logo=tensorflow)
 ![alt text](https://img.shields.io/badge/ReactRouter-167E5A?style=for-the-badge&logo=reactrouter)
 ![alt text](https://img.shields.io/badge/Redux-167E5A?style=for-the-badge&logo=redux)
 ![alt text](https://img.shields.io/badge/Expressjs-167E5A?style=for-the-badge&logo=express)
