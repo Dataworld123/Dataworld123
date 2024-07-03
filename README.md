@@ -1,5 +1,5 @@
 ![logo](https://github.com/Dataworld123/Dataworld123/blob/main/banner.png)
-- 👋 Hi, I’m @Dataworld123
+- 👋 Hi, I’m Nishant Kumar
 - 👀 I’m interested in Datafield like Datascien, gen- ai , llm
 - 🌱 I’m currently learning Ai,Ml,Dl
 - 💞️ I’m looking to collaborate on llm project
