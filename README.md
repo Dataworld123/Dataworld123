@@ -2,7 +2,10 @@
 
                                                                 👋 Hi, I’m Nishant Kumar
                                                                   
-                                               I’m interested in increasing humanecapabilitiess using AI
+                                               I’m interested in increasing human capabilities using AI
+
+
+          Reach me on = nishantkcarrergmail.com
                                                              
    
                                                                                                
