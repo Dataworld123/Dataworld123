@@ -51,6 +51,48 @@
 ![alt text](https://img.shields.io/badge/Anaconda-05A081?style=for-the-badge&logo=Anaconda)
 
 
+
+<div align="center" > 
+ <div>
+<img flex=row width=auto align="left" src="https://github-readme-stats.vercel.app/api?username=ShivamShroff&show_icons=true&theme=transparent&count_private=true" />
+<img flex=row width=auto align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivamShroff&show_icons=true&theme=transparent&layout=compact&count_private=true" alt="ShivamShroff" />
+
+
+</div>
+
+  
+
+<br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+   <div align="left">
+    <h3 align="lef" >: </h3>
+  
+ 
+   
+  <p align="center" > 
+  
+  [![](https://visitcount.itsvg.in/api?id=ShivamShroff&label=Profile%20Views&color=1&icon=5&pretty=false&count_private=true)](https://visitcount.itsvg.in)
+  
+  </p>
+  </div>
+</div>
+<div width="full" align="center" >
+   
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dataworld123&theme=transparent&layout=compact&count_private=true")](https://git.io/streak-stats)
+  </div>
+
+username=Dataworld123&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
+
+ 
+
+
  
 <!---
 Dataworld123/Dataworld123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
