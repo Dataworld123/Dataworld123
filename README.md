@@ -5,7 +5,7 @@
                                                I’m interested in increasing human capabilities using AI
 
 
-          Reach me on = nishantkcarrergmail.com
+       
                                                              
    
                                                                                                
