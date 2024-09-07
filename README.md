@@ -1,10 +1,11 @@
 ![logo](https://github.com/Dataworld123/Dataworld123/blob/main/banner.png)
-- 👋 Hi, I’m Nishant Kumar
-- 👀 I’m interested in Datafield like Datascien, gen- ai , llm
-- 🌱 I’m currently learning Ai,Ml,Dl
-- 💞️ I’m looking to collaborate on llm project
-- 📫 Reach me on - nishantkcarrer@gmail.com
 
+                                                                  👋 Hi, I’m Nishant Kumar
+                                                                  
+                                                  I’m interested in  increase the Human Capabilities using AI.
+                                                             
+   
+                                                                                               
 ## Tech stack
 
 ![alt text](https://img.shields.io/badge/python-167E5A?style=for-the-badge&logo=python)
