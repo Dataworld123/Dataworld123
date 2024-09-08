@@ -54,8 +54,8 @@
 
 <div align="center" > 
  <div>
-<img flex=row width=auto align="left" src="https://github-readme-stats.vercel.app/api?username=ShivamShroff&show_icons=true&theme=transparent&count_private=true" />
-<img flex=row width=auto align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivamShroff&show_icons=true&theme=transparent&layout=compact&count_private=true" alt="ShivamShroff" />
+<img flex=row width=auto align="left" src="https://github-readme-stats.vercel.app/api?username=Dataworld123&show_icons=true&theme=transparent&count_private=true" />
+<img flex=row width=auto align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Dataworld123&show_icons=true&theme=transparent&layout=compact&count_private=true" alt="Dataworld123" />
 
 
 </div>
@@ -88,7 +88,7 @@
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dataworld123&theme=transparent&layout=compact&count_private=true")](https://git.io/streak-stats)
   </div>
 
-username=Dataworld123&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
+
 
  
 
