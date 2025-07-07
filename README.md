@@ -1,8 +1,23 @@
 ![logo](https://github.com/Dataworld123/Dataworld123/blob/main/banner.png)
 
-                                                                👋 Hi, I’m Nishant Kumar
-                                                                  
-                                               I’m interested in increasing human capabilities using AI
+                                                       👋 Hi, I’m Nishant Kumar — a Data Scientist passionate about building intelligent systems that learn, adapt, and scale.
+
+🧠 I work at the intersection of Machine Learning, Deep Learning, and Generative AI.  
+🚀 Exploring Agentic AI systems with LangChain, LangGraph, Pinecone, and CrewAI.  
+🛠️ I deploy AI solutions using MLOps tools like FastAPI, MLflow, Docker, and GitHub Actions.  
+📊 I love turning messy data into impactful insights and real-time AI-powered products.
+
+📍Currently freelancing on cutting-edge AI projects and learning everything I can about LLMOps, multi-agent systems, and AI deployment on the cloud.
+
+🧪 Let’s talk about:  
+- Emerging AI architectures (LLMs, RAG, AutoGPT)  
+- Open-source ML systems  
+- Scalable AI deployment and optimization
+
+📫 Let’s connect:  
+- Gmail-nishantkcarrer@gmail.com 
+- LinkedIn: linkedin.com/in/nishant-kumar-a52a6a1b2  
+
 
 
        
