@@ -1,6 +1,6 @@
 ![logo](https://github.com/Dataworld123/Dataworld123/blob/main/banner.png)
 
-                                                       👋 Hi, I’m Nishant Kumar — a Data Scientist passionate about building intelligent systems that learn, adapt, and scale.
+  👋 Hi, I’m Nishant Kumar — a Data Scientist passionate about building intelligent systems that learn, adapt, and scale.
 
 🧠 I work at the intersection of Machine Learning, Deep Learning, and Generative AI.  
 🚀 Exploring Agentic AI systems with LangChain, LangGraph, Pinecone, and CrewAI.  
@@ -16,7 +16,7 @@
 
 📫 Let’s connect:  
 - Gmail-nishantkcarrer@gmail.com 
-- LinkedIn: linkedin.com/in/nishant-kumar-a52a6a1b2  
+- LinkedIn-linkedin.com/in/nishant-kumar-a52a6a1b2  
 
 
 
